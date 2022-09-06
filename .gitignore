@@ -1,6 +1,19 @@
 resourcepacks/
 shaderpacks/
+server-resource-packs
 texturepacks/
 
 saves/
 screenshots/
+XaeroWorldMap/
+instance.cfg
+
+coremods/
+data/
+logs/
+
+irisUpdateInfo.json
+realms_persistence.json
+
+.fabric/
+natives/
