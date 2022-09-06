@@ -1,26 +1,36 @@
-resourcepacks/
-shaderpacks/
-server-resource-packs
-texturepacks/
-
-saves/
-screenshots/
-XaeroWorldMap/
-instance.cfg
-options.txt
-
-coremods/
-data/
-logs/
-
-# automatically generated files
-irisUpdateInfo.json
+# rendering
 indigo-renderer.properties
 indium-renderer.properties
 iris.properties
+irisUpdateInfo.json
+
+# xaero
+XaeroWorldMap/
+XaeroWaypoints*/
+xaerominimap.txt
 xaerominimap_entities.json
+xaeroworldmap.txt
 
-realms_persistence.json
-
-.fabric/
+# multimc
 natives/
+instance.cfg
+mmc-pack.json
+
+# automatic
+.fabric/
+coremods/
+data/
+logs/
+realms_persistence.json
+usercache.json
+
+# up to the user
+resourcepacks/
+saves/
+screenshots/
+server-resource-packs/
+shaderpacks/
+texturepacks/
+options.txt
+
+ModTranslations/

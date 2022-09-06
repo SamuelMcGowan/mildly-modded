@@ -21,54 +21,25 @@ mode = "fancy"
 
 			[light_sources.settings.entities.minecraft]
 				chicken = true
-				axolotl = true
-				bee = true
-				arrow = true
-				donkey = true
-				cow = true
-				tropical_fish = true
-				chest_minecart = true
-				slime = true
-				pig = true
-				pillager = true
-				skeleton = true
-				bat = true
-				husk = true
-				rabbit = true
-				cat = true
-				zombie = true
-				armor_stand = true
-				drowned = true
-				sheep = true
-				experience_orb = true
-				player = true
-				pufferfish = true
-				dolphin = true
 				item = true
-				turtle = true
-				salmon = true
-				zombie_villager = true
+				axolotl = true
 				tnt_minecart = true
-				furnace_minecart = true
-				item_frame = true
-				horse = true
+				zombie_villager = true
+				cow = true
+				chest_minecart = true
+				tropical_fish = true
+				skeleton = true
 				minecart = true
-				painting = true
-				cave_spider = true
+				bat = true
+				zombie = true
 				glow_squid = true
-				cod = true
-				witch = true
 				glow_item_frame = false
-				squid = true
-				snowball = true
 				spider = true
 				creeper = true
+				player = true
 				enderman = true
 
-			[light_sources.settings.entities.dynamites]
-				dynamite = true
-
-			[light_sources.settings.entities.charm]
-				moobloom = true
-				chair = true
+			[light_sources.settings.entities.creeperoverhaul]
+				cave_creeper = true
+				spruce_creeper = true
 

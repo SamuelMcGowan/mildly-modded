@@ -29,6 +29,7 @@ A cosy vanilla+ modpack with useful tweaks 🔧 and aesthetic ✨ improvements.
 ### Tools
 
 - Easier Villager Trading
+- Fabrishot
 - Inventory Tabs
 - Logical Zoom
 - Mod Menu
@@ -39,6 +40,7 @@ A cosy vanilla+ modpack with useful tweaks 🔧 and aesthetic ✨ improvements.
 ### Improvements
 
 - 3d Skin Layers
+- Animatica
 - Better F3
 - Better Mount HUD
 - Better Recipe Books
@@ -51,6 +53,7 @@ A cosy vanilla+ modpack with useful tweaks 🔧 and aesthetic ✨ improvements.
 - No Chat Reports
 - No Telemetry
 - Not Enough Animations
+- Raised Clouds
 - Shulkerbox Tooltip
 
 ### Random
@@ -77,6 +80,7 @@ A cosy vanilla+ modpack with useful tweaks 🔧 and aesthetic ✨ improvements.
 - Architectury
 - Bad Packets
 - Chime
+- Cloth API
 - Cloth Config
 - Fabric API
 - Fabric Language Kotlin

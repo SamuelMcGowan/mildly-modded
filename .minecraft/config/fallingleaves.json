@@ -15,23 +15,23 @@
     "minecraft:the_nether"
   ],
   "leafSettings": {
-    "minecraft:jungle_leaves": {
-      "spawnRateFactor": 0.0,
-      "isConiferBlock": false
-    },
     "minecraft:flowering_azalea_leaves": {
       "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "minecraft:jungle_leaves": {
+      "spawnRateFactor": 0.0,
       "isConiferBlock": false
     },
     "minecraft:mangrove_leaves": {
       "spawnRateFactor": 1.0,
       "isConiferBlock": false
     },
-    "minecraft:azalea_leaves": {
+    "minecraft:birch_leaves": {
       "spawnRateFactor": 1.0,
       "isConiferBlock": false
     },
-    "minecraft:birch_leaves": {
+    "minecraft:azalea_leaves": {
       "spawnRateFactor": 1.0,
       "isConiferBlock": false
     },
