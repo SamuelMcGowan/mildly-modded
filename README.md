@@ -14,6 +14,7 @@ A cosy vanilla+ modpack with useful tweaks 🔧 and aesthetic ✨ improvements.
 - Incantationem
 - Plasmo Voice
 - Repurposed Structures
+- Terralith
 
 ### Environmental/Ambience
 
