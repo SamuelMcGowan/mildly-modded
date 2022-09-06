@@ -6,6 +6,7 @@ A cosy vanilla+ modpack with useful tweaks 🔧 and aesthetic ✨ improvements.
 
 ### Server-side
 
+- Additional Structures
 - Cammie's Minecart Tweaks
 - Charm
 - Creeper Overhaul
