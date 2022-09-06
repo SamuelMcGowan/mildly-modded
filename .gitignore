@@ -12,7 +12,13 @@ coremods/
 data/
 logs/
 
+# automatically generated files
 irisUpdateInfo.json
+indigo-renderer.properties
+indium-renderer.properties
+iris.properties
+xaerominimap_entities.json
+
 realms_persistence.json
 
 .fabric/
