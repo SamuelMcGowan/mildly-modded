@@ -16,6 +16,7 @@ A cosy vanilla+ modpack with useful tweaks 🔧 and aesthetic ✨ improvements.
 - Nullscape
 - Plasmo Voice
 - Repurposed Structures
+- Structory
 - Terralith
 
 ### Environmental/Ambience
