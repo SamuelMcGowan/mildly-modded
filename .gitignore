@@ -1,15 +1,9 @@
-# rendering
-indigo-renderer.properties
-indium-renderer.properties
-iris.properties
-irisUpdateInfo.json
+# ignore all configs by default
+.minecraft/config/*
 
-# xaero
-XaeroWorldMap/
-XaeroWaypoints*/
-xaerominimap.txt
-xaerominimap_entities.json
-xaeroworldmap.txt
+# re-include necessary configs
+!charm.toml
+!betterf3.json
 
 # multimc
 natives/
@@ -21,8 +15,13 @@ mmc-pack.json
 coremods/
 data/
 logs/
+irisUpdateInfo.json
 realms_persistence.json
 usercache.json
+
+# xaero
+XaeroWorldMap/
+XaeroWaypoints*/
 
 # up to the user
 resourcepacks/
