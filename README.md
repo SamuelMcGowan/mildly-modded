@@ -7,11 +7,13 @@ A cosy vanilla+ modpack with useful tweaks 🔧 and aesthetic ✨ improvements.
 ### Server-side
 
 - Additional Structures
+- Amplified Nether
 - Cammie's Minecart Tweaks
 - Charm
 - Creeper Overhaul
 - Immersive Weathering
 - Incantationem
+- Nullscape
 - Plasmo Voice
 - Repurposed Structures
 - Terralith
