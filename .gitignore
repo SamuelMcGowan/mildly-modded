@@ -15,9 +15,14 @@ mmc-pack.json
 coremods/
 data/
 logs/
+crash-reports/
 irisUpdateInfo.json
 realms_persistence.json
 usercache.json
+
+brb.pins
+cherishedworlds-favorites.dat
+leaves-us-in-peace.timestamp
 
 # xaero
 XaeroWorldMap/

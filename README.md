@@ -6,13 +6,18 @@ A cosy vanilla+ modpack with useful tweaks 🔧 and aesthetic ✨ improvements.
 
 ### Server-side
 
+- Additional Additions
 - Additional Structures
 - Amplified Nether
 - Cammie's Minecart Tweaks
 - Charm
+- Copper Golem
 - Creeper Overhaul
 - Immersive Weathering
 - Incantationem
+- More Axolotls Variants
+- More Frogs
+- More Geodes
 - Nullscape
 - Plasmo Voice
 - Repurposed Structures
@@ -26,8 +31,10 @@ A cosy vanilla+ modpack with useful tweaks 🔧 and aesthetic ✨ improvements.
 - Falling Leaves
 - Lambda Better Grass
 - Lamb Dynamic Lights
+- Particle Rain
 - Presence Footsteps
 - Sound Physics
+- Visuality
 
 ### Tools
 
@@ -53,6 +60,7 @@ A cosy vanilla+ modpack with useful tweaks 🔧 and aesthetic ✨ improvements.
 - Continuity
 - Enhanced Block Entities
 - I Know What I'm Doing
+- Leaves Us In Peace
 - No Chat Reports
 - No Telemetry
 - Not Enough Animations
