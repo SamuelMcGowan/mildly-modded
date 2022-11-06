@@ -24,6 +24,7 @@ A cosy vanilla+ modpack with useful tweaks 🔧 and aesthetic ✨ improvements.
 - Repurposed Structures
 - Structory
 - Terralith
+- Vanilla Food Types (by us)
 - Yung's Better Desert Temples
 - Yung's Better Dungeons
 - Yung's Better Mineshafts
