@@ -67,6 +67,7 @@ A cosy vanilla+ modpack with useful tweaks 🔧 and aesthetic ✨ improvements.
 - Cherished Worlds
 - Clickthrough
 - Continuity
+- Elytra Physics
 - Enhanced Block Entities
 - I Know What I'm Doing
 - Leaves Us In Peace
