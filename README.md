@@ -73,6 +73,7 @@ A cosy vanilla+ modpack with useful tweaks 🔧 and aesthetic ✨ improvements.
 - Leaves Us In Peace
 - No Chat Reports
 - No Telemetry
+- Paxi
 - Not Enough Animations
 - Raised Clouds
 - Shulkerbox Tooltip
@@ -108,7 +109,15 @@ A cosy vanilla+ modpack with useful tweaks 🔧 and aesthetic ✨ improvements.
 - GeckoLib
 - Pehkui
 
+### Datapacks
+
+- Anti Enderman Grief
+- More Mob Heads
+- Player Head Drops
+- Spectator Conduit Power
+- Spectator Night Vision
+- Wandering Trades
+
 ### Not updated to 1.19 yet
 
 - Egg Tab
-- Paxi
