@@ -23,6 +23,14 @@ A cosy vanilla+ modpack with useful tweaks 🔧 and aesthetic ✨ improvements.
 - Repurposed Structures
 - Structory
 - Terralith
+- Yung's Better Desert Temples
+- Yung's Better Dungeons
+- Yung's Better Mineshafts
+- Yung's Better Ocean Monuments
+- Yung's Better Strongholds
+- Yung's Better Witch Huts
+- Yung's Bridges
+- Yung's Extras
 
 ### Environmental/Ambience
 
@@ -102,9 +110,3 @@ A cosy vanilla+ modpack with useful tweaks 🔧 and aesthetic ✨ improvements.
 
 - Egg Tab
 - Paxi
-- Yung's Better Dungeons
-- Yung's Better Mineshafts
-- Yung's Better Temples
-- Yung's Better Witch Huts
-- Yung's Bridges
-- Yung's Extras
