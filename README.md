@@ -10,6 +10,7 @@ A cosy vanilla+ modpack with useful tweaks 🔧 and aesthetic ✨ improvements.
 - Additional Structures
 - Amplified Nether
 - Cammie's Minecart Tweaks
+- Capybara
 - Charm
 - Copper Golem
 - Creeper Overhaul

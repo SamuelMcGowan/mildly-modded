@@ -3,6 +3,7 @@
 
 # re-include necessary configs
 !additional-additions-config.json
+!capybara.json
 !charm.toml
 !creeperoverhaul.json
 !crowdin.txt
