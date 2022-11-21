@@ -24,7 +24,6 @@ A cosy vanilla+ modpack with useful tweaks 🔧 and aesthetic ✨ improvements.
 - Repurposed Structures
 - Structory
 - Terralith
-- Vanilla Food Types (by us)
 - Yung's Better Desert Temples
 - Yung's Better Dungeons
 - Yung's Better Mineshafts
@@ -54,7 +53,7 @@ A cosy vanilla+ modpack with useful tweaks 🔧 and aesthetic ✨ improvements.
 - Logical Zoom
 - Mod Menu
 - WTHIT
-- Xaero's Minimap (Fair Play Edition)
+- Xaero's Mini Map (fairplay addition)
 - Xaero's World Map
 
 ### Improvements
@@ -108,6 +107,7 @@ A cosy vanilla+ modpack with useful tweaks 🔧 and aesthetic ✨ improvements.
 - Fabric API
 - Fabric Language Kotlin
 - GeckoLib
+- Moonlight Lib
 - Pehkui
 
 ### Datapacks
@@ -119,6 +119,9 @@ A cosy vanilla+ modpack with useful tweaks 🔧 and aesthetic ✨ improvements.
 - Spectator Night Vision
 - Wandering Trades
 
-### Not updated to 1.19 yet
+### Credits
 
-- Egg Tab
+- [Amplified Nether](https://www.curseforge.com/minecraft/mc-mods/amplified-nether), [Terralith](https://www.curseforge.com/minecraft/mc-mods/terralith), [Nullscape](https://www.curseforge.com/minecraft/mc-mods/nullscape) and [Structory](https://www.curseforge.com/minecraft/mc-mods/structory), by Starmute with [permission](https://stardustlabs.miraheze.org/wiki/Stardust_Labs_Wiki:About#License)
+- [Capybara](https://www.curseforge.com/minecraft/mc-mods/capybara-fabric)
+- [Moonlight Lib](https://www.curseforge.com/minecraft/mc-mods/selene), with [permission](https://www.curseforge.com/minecraft/mc-mods/selene?page=3#comments)
+- [Xaero's Mini Map (fairplay addition)](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) and [Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)

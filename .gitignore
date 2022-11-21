@@ -43,6 +43,7 @@ XaeroWorldMap/
 XaeroWaypoints*/
 
 # up to the user
+backups/
 resourcepacks/
 saves/
 screenshots/
