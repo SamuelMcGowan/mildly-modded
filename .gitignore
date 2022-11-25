@@ -33,6 +33,8 @@ crash-reports/
 irisUpdateInfo.json
 realms_persistence.json
 usercache.json
+.minecraft/servers.dat
+.minecraft/servers.dat_old
 
 brb.pins
 cherishedworlds-favorites.dat
@@ -44,7 +46,7 @@ XaeroWaypoints*/
 
 # up to the user
 backups/
-resourcepacks/
+.minecraft/resourcepacks/
 saves/
 screenshots/
 server-resource-packs/
