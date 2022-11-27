@@ -53,3 +53,9 @@ server-resource-packs/
 shaderpacks/
 texturepacks/
 options.txt
+.minecraft/config/additional-additions-config.json
+.minecraft/config/additional-additions-config.json
+.minecraft/config/capybara.json
+.minecraft/config/leaves_us_in_peace.json
+.minecraft/config/minecarttweaks.json5
+.minecraft/imgui.ini
