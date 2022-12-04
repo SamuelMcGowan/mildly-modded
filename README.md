@@ -84,7 +84,8 @@ A cosy vanilla+ modpack with useful tweaks 🔧 and aesthetic ✨ improvements.
 
 ### Rendering
 
-- Iris (PBR)
+- Custom Entity Models
+- Iris
 - Indium
 - Sodium (Replay Compatible)
 - Reese's Sodium Options
@@ -123,5 +124,6 @@ A cosy vanilla+ modpack with useful tweaks 🔧 and aesthetic ✨ improvements.
 
 - [Amplified Nether](https://www.curseforge.com/minecraft/mc-mods/amplified-nether), [Terralith](https://www.curseforge.com/minecraft/mc-mods/terralith), [Nullscape](https://www.curseforge.com/minecraft/mc-mods/nullscape) and [Structory](https://www.curseforge.com/minecraft/mc-mods/structory), by Starmute with [permission](https://stardustlabs.miraheze.org/wiki/Stardust_Labs_Wiki:About#License)
 - [Capybara](https://www.curseforge.com/minecraft/mc-mods/capybara-fabric)
+- [Custom Entity Models](https://modrinth.com/mod/cem)
 - [Moonlight Lib](https://www.curseforge.com/minecraft/mc-mods/selene), with [permission](https://www.curseforge.com/minecraft/mc-mods/selene?page=3#comments)
 - [Xaero's Mini Map (fairplay addition)](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) and [Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
